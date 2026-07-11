@@ -1,21 +1,21 @@
-# Bankist 
+# Balancr
 
-Bankist is a modern banking application designed for managing personal finances. 
+Balancr is a modern banking application designed for managing personal finances. 
 This is a user-friendly landing page for the same. <br>
 The website is designed with a clean, intuitive interface to simplify customer experience.
 
-You can visit the website here : [Bankist](https://bankistdigi.netlify.app/)
+You can visit the website here : [Balancr](https://bankistdigi.netlify.app/)
 
 https://github.com/user-attachments/assets/e40e35b8-eb22-443d-8ba5-f419220a7e5a
 
 ## Installation 
 
-To run Bankist locally follow these steps :
+To run Balancr locally follow these steps :
 
 1. Clone the repository 
 
 ```bash
-git clone https://github.com/geeth34/bankist-website.git
+git clone https://github.com/geeth34/balancr-website.git
 ```
 2. Navigate to the project directory and install all the dependencies.
 
