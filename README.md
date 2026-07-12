@@ -6,8 +6,6 @@ The website is designed with a clean, intuitive interface to simplify customer e
 
 You can visit the website here : [Balancr](https://bankistdigi.netlify.app/)
 
-https://github.com/user-attachments/assets/e40e35b8-eb22-443d-8ba5-f419220a7e5a
-
 ## Installation 
 
 To run Balancr locally follow these steps :
