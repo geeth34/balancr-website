@@ -1,10 +1,10 @@
-# Bankist
+# Balancr
 
-Bankist is a modern banking application designed for managing personal finances. 
+Balancr is a modern banking application designed for managing personal finances. 
 This is a user-friendly landing page for the same. <br>
 The website is designed with a clean, intuitive interface to simplify customer experience.
 
-You can visit the website here : [Balancr](https://bankistdigi.netlify.app/)
+You can visit the website here : [Balancr](https://codeandcloud.site/)
 
 ## Installation 
 
