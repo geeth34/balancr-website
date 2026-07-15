@@ -8,12 +8,12 @@ You can visit the website here : [Balancr](https://codeandcloud.site/)
 
 ## Installation 
 
-To run Bankist locally follow these steps :
+To run Balancr locally follow these steps :
 
 1. Clone the repository 
 
 ```bash
-git clone https://github.com/geeth34/bankist-website.git
+git clone https://github.com/geeth34/balancr-website.git
 ```
 2. Navigate to the project directory and install all the dependencies.
 
